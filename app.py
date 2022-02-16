@@ -1,4 +1,5 @@
 from dash import Dash, dcc, html, Input, Output
+from vega_datasets import data
 import os
 
 
